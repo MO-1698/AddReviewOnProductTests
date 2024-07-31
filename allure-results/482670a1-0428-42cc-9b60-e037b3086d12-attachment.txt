@@ -1,0 +1,49 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                              Test Method: 'AddReviewOnProductTests.validateReview'                                              
+                                                    Test Description: 'Validate user review'                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://automationexercise.com/" @01-08-2024 00:54:46.0401 AM
+[ReportManager] Initial URL: "about:blank" @01-08-2024 00:54:46.0444 AM
+[ReportManager] Navigate to url "https://automationexercise.com/". @01-08-2024 00:54:49.0468 AM
+[ReportManager] Moved the mouse to the middle of the element. @01-08-2024 00:54:49.0773 AM
+[ReportManager] Click " Products". @01-08-2024 00:54:51.0235 AM
+[ReportManager] Verify that the element located by "By.xpath: //h2[@class="title text-center"]" text is equal to "ALL PRODUCTS". @01-08-2024 00:54:51.0282 AM
+[ReportManager] Expected "ALL PRODUCTS", and actual "ALL PRODUCTS" @01-08-2024 00:54:51.0654 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_00-54-59-241_01082024' @01-08-2024 00:54:59.0257 AM
+[ReportManager] Expected "ALL PRODUCTS", and actual "ALL PRODUCTS" @01-08-2024 00:54:59.0257 AM
+[ReportManager] Verification passed @01-08-2024 00:54:59.0263 AM
+[ReportManager] Moved the mouse to the middle of the element. @01-08-2024 00:54:59.0608 AM
+[ReportManager] Click " View Product". @01-08-2024 00:55:01.0287 AM
+[ReportManager] Verify that the element located by "By.xpath: //a[@href="#reviews"]" text is equal to "WRITE YOUR REVIEW". @01-08-2024 00:55:01.0293 AM
+[ReportManager] Expected "WRITE YOUR REVIEW", and actual "WRITE YOUR REVIEW" @01-08-2024 00:55:01.0428 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_00-55-02-230_01082024' @01-08-2024 00:55:02.0232 AM
+[ReportManager] Expected "WRITE YOUR REVIEW", and actual "WRITE YOUR REVIEW" @01-08-2024 00:55:02.0233 AM
+[ReportManager] Verification passed @01-08-2024 00:55:02.0233 AM
+[ReportManager] Text cleared Using Native Clear @01-08-2024 00:55:02.0372 AM
+[ReportManager] Type "Mohamed" into "Your Name". @01-08-2024 00:55:02.0451 AM
+[ReportManager] Text cleared Using Native Clear @01-08-2024 00:55:02.0577 AM
+[ReportManager] Type "Mohamed@gmail" into "Email Address". @01-08-2024 00:55:02.0640 AM
+[ReportManager] Text cleared Using Native Clear @01-08-2024 00:55:02.0739 AM
+[ReportManager] Type "Tarsh" into "Add Review Here!". @01-08-2024 00:55:02.0823 AM
+[ReportManager] Moved the mouse to the middle of the element. @01-08-2024 00:55:03.0024 AM
+[ReportManager] Click "Submit". @01-08-2024 00:55:03.0084 AM
+[ReportManager] Verify that the element located by "By.xpath: //div[@class="form-row hide"]" text contains "Thank you for your review.". @01-08-2024 00:55:03.0087 AM
+[ReportManager] Expected "Thank you for your review.", and actual "
+											
+												
+													Thank you for your review.
+												
+											
+										" @01-08-2024 00:55:05.0218 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_00-55-05-793_01082024' @01-08-2024 00:55:05.0795 AM
+[ReportManager] Expected "Thank you for your review.", and actual "
+											
+												
+													Thank you for your review.
+												
+											
+										" @01-08-2024 00:55:05.0796 AM
+[ReportManager] Verification passed @01-08-2024 00:55:05.0798 AM
